@@ -1,0 +1,14 @@
+# Compiled Object files
+*.o
+
+# Executables
+arbiter
+hip
+asp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Any random zip files
+*.zip
